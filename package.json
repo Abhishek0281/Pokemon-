@@ -1,0 +1,16 @@
+{
+  "name": "pokemon-bot-tutorial-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0",
+    "lodash": "^4.17.21",
+    "quick.db": "^7.1.3"
+  }
+}
